@@ -1,0 +1,9 @@
+{
+  "name": "kata-calculator-tdd",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "calculator.test.js",
+  "scripts": {
+    "test": "node calculator.test.js"
+  }
+}
